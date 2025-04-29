@@ -41,8 +41,8 @@ Você pode obter os arquivos de duas formas:
 ### 1. Usando Git (recomendado)
 
 ```bash
-git clone <URL-do-seu-repositório>
-Substitua <URL-do-seu-repositório> pela URL real deste repositório.
+git clone [<URL-do-seu-repositório>](https://github.com/GonzaBot/Lista-1-exercicios-pra-ti.git)
+Substitua [<URL-do-seu-repositório>](https://github.com/GonzaBot/Lista-1-exercicios-pra-ti.git) pela URL real deste repositório.
 
 2. Download direto do GitHub
 Vá até a página do repositório
