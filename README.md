@@ -42,7 +42,6 @@ Você pode obter os arquivos de duas formas:
 
 ```bash
 git clone [https://github.com/GonzaBot/Lista-1-exercicios-pra-ti.git)
-Substitua [https://github.com/GonzaBot/Lista-1-exercicios-pra-ti.git) pela URL real deste repositório.
 
 2. Download direto do GitHub
 Vá até a página do repositório
